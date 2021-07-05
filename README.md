@@ -6,5 +6,3 @@ Features:
 •	the lights will be switched on if the garage door is opened and it will be switched off if the door is closed.
 •	He can also control the garage doors and lights using the mobile app.
 •	All the captured images of the vehicles will be stored.
-
-
